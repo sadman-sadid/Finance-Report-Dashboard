@@ -1,14 +1,15 @@
 # Finance-Report-Dashboard
 Power BI Finance Report Dashboard
-Overview: I have created 4 different KPI's, 3 Slicers and 5 different charts to get a meaningful insight of the given data.
+## Overview 
+I have created 4 different KPI's, 3 Slicers and 5 different charts to get a meaningful insight of the given data.
 
-The 4 KPI's are about the:
+## KPI's
 i)Total Revenue.
 ii)Average Revenue.
 ii)Total Transactions. 
 iv)Total Countries.
 
-By using the 3 slicers we can get Data according to:
+## Slicers
 i)Years.
 ii)Quarters.
 iii)Regions.
