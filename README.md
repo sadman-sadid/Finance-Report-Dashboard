@@ -17,5 +17,6 @@ Beside that there is a Donut Chart which shows us Total Revenue by Regions. The 
 
 Dataset:(https://github.com/sadman-sadid/Finance-Report-Dashboard/blob/main/DataSet.xlsx)
 
-Image of Dashboard:(https://github.com/sadman-sadid/Finance-Report-Dashboard/blob/main/Finance%20Report.png)
+##Dashboard
+(https://github.com/sadman-sadid/Finance-Report-Dashboard/blob/main/Finance%20Report.png)
 
