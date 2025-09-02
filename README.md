@@ -16,5 +16,6 @@ iii)Regions.
 Beside that there is a Donut Chart which shows us Total Revenue by Regions. The TreeMap Chart shows us Total Revenue by Ranks. The Area Chart shows us Total Revenue by Quarters. The Bar Chart with Line helps us to understand Total Revenue and Average Revenue by Country. And lastly the ribbon Chart shows us Total Revenue by Products and Ranks.
 
 Dataset:(https://github.com/sadman-sadid/Finance-Report-Dashboard/blob/main/DataSet.xlsx)
+
 Image of Dashboard:(https://github.com/sadman-sadid/Finance-Report-Dashboard/blob/main/Finance%20Report.png)
 
